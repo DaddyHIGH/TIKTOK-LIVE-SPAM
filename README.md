@@ -9,9 +9,8 @@ https://github.com/DaddyHIGH/TIKTOK-LIVE-SPAM/assets/142447264/4f629fbc-9a5b-449
 
 MAKE SURE YOUR ROOM ID IS IN THE CODE 
 
-![image](https://github.com/DaddyHIGH/TIKTOK-LIVE-SPAM/assets/142447264/1ea4ff69-1c39-4df6-9c50-a2ef06bc000e)
-
-TELEGRAM : T.ME/xtheagent
+![video](https://github.com/DaddyHIGH/TIKTOK-LIVE-SPAM/assets/142447264/1ea4ff69-1c39-4df6-9c50-a2ef06bc000e)
 
 
-INSTAGRAM : INSTAGRAM.COM/F2SOCIETY
+
+"INSTAGRAM : INSTAGRAM.COM/nqug"
