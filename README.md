@@ -21,7 +21,7 @@ A **Node.js** tool for sending automated (spam) messages to a TikTok live chat. 
 - Load messages From messages.txt
 ---
 ### 1. Clone the Repository
-Clone the repository to your local machine:
+Clone the repository :
 ```bash
 git clone https://github.com/DaddyHIGH/TIKTOK-LIVE-SPAM.git
 cd TIKTOK-LIVE-SPAM
