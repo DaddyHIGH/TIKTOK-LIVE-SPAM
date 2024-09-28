@@ -22,8 +22,10 @@ and Change The room_id=7419738215660145429
 
 How do you get it 
 
-its easy just open tiktok.com/@العميل/live and do view source page
+its easy just open ( tiktok.com/@العميل/live ) and do view source page
+
 tiktok.com/@theliveyouwant/live
+
 Search for roomid and you will get it 
 ---
 ## update
