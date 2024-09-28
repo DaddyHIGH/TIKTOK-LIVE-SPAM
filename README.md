@@ -14,10 +14,16 @@ A **Node.js** tool for sending automated (spam) messages to a TikTok live chat. 
 - **Node.js**
 - **npm** (comes with Node.js)
 ---
+## how to ?
+
 To Spam stream Just add your sessions id 
+
 and Change The room_id=7419738215660145429
+
 How do you get it 
+
 its easy just open [tiktok.com/@العميل/live](https://www.tiktok.com/@%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D9%84/live) and do view source page
+
 Search for roomid and you will get it 
 ---
 ## update
