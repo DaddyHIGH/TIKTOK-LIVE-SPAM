@@ -16,6 +16,10 @@ A **Node.js** tool for sending automated (spam) messages to a TikTok live chat. 
 ---
 
 
+## update
+- Telegram Message deleted 
+- Load messages From messages.txt
+---
 ### 1. Clone the Repository
 Clone the repository to your local machine:
 ```bash
