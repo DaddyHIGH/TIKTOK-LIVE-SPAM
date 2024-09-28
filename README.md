@@ -1,16 +1,23 @@
-its a simple code in node js its make a spam in a tiktok live
+# TikTok Live Spam Bot
+
+A **Node.js** tool for sending automated (spam) messages to a TikTok live chat. This script continuously sends messages to a specified TikTok live room.
+
+---
+
+## Features
+- Customizable messages and spam rate.
+- Uses TikTok Room ID for targeting specific live streams.
+
+---
+
+## Prerequisites
+- **Node.js**
+- **npm** (comes with Node.js)
+---
 
 
-![image](https://github.com/DaddyHIGH/TIKTOK-LIVE-SPAM/assets/142447264/293520cd-1fdd-493b-ad67-50a394ba0541)
-
-
-HOW TO GET A ROOM ID
-https://github.com/DaddyHIGH/TIKTOK-LIVE-SPAM/assets/142447264/4f629fbc-9a5b-4490-ae9f-7eafa289cb08
-
-MAKE SURE YOUR ROOM ID IS IN THE CODE 
-
-![video](https://github.com/DaddyHIGH/TIKTOK-LIVE-SPAM/assets/142447264/1ea4ff69-1c39-4df6-9c50-a2ef06bc000e)
-
-
-
-"INSTAGRAM : INSTAGRAM.COM/nqug"
+### 1. Clone the Repository
+Clone the repository to your local machine:
+```bash
+git clone https://github.com/DaddyHIGH/TIKTOK-LIVE-SPAM.git
+cd TIKTOK-LIVE-SPAM
