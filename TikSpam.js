@@ -1,7 +1,7 @@
 const fs = require('fs');
 const axios = require('axios');
 
-const randomTexts = fs.readFileSync('messages.txt', 'utf-8').split('\n').filter(Boolean);
+const text = fs.readFileSync('messages.txt', 'utf-8').split('\n').filter(Boolean);
 
 const sessionIds = [
   'session id',
@@ -61,7 +61,7 @@ async function sendRequest(sessionId, randomContent, i) {
       console.log(`Session ID: ${sessionId}, User not logged in.`);
     } else {
       console.log(`Session ID: ${sessionId}, Request ${i + 1} response:`, data);
-      if (randomTexts.includes(data.data.content)) {
+      if (text.includes(data.data.content)) {
         saveAccountInfo(data.data.content, data.data.content_language, sessionId);
       }
     }
@@ -77,8 +77,8 @@ async function sendRequests() {
 
   for (let iteration = 0; iteration < maxIterations; iteration++) {
     for (const sessionId of sessionIds) {
-      const promises = randomTexts.map((_, i) => {
-        const randomContent = randomTexts[Math.floor(Math.random() * randomTexts.length)];
+      const promises = text.map((_, i) => {
+        const randomContent = text[Math.floor(Math.random() * text.length)];
         return sendRequest(sessionId, randomContent, i);
       });
       await Promise.all(promises);
